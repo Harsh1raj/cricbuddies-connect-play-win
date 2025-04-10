@@ -63,10 +63,10 @@ export default {
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
 				},
-				// Cricket-themed colors
+				// Cricket-themed colors - now using blue instead of green
 				cricket: {
-					green: '#1A4D2E',
-					lightGreen: '#3D8361',
+					green: '#1E40AF', // Changed to blue
+					lightGreen: '#3B82F6', // Changed to lighter blue
 					red: '#B22222',
 					brown: '#8B4513',
 					cream: '#F8F0E3',
