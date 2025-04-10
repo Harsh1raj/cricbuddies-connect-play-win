@@ -1,4 +1,3 @@
-
 import React from "react";
 
 export const BallIcon: React.FC<{ className?: string }> = ({ className = "w-6 h-6" }) => (
@@ -46,12 +45,9 @@ export const TeamIcon: React.FC<{ className?: string }> = ({ className = "w-6 h-
 );
 
 export const CricBuddiesLogo: React.FC<{ className?: string }> = ({ className = "w-10 h-10" }) => (
-  <svg className={className} viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <circle cx="20" cy="20" r="18" fill="#1A4D2E" />
-    <circle cx="20" cy="20" r="16" fill="#3D8361" />
-    <path d="M20 10C14.47 10 10 14.47 10 20C10 25.53 14.47 30 20 30C25.53 30 30 25.53 30 20" stroke="white" strokeWidth="2.5" strokeLinecap="round" />
-    <path d="M23 17L27 13" stroke="white" strokeWidth="2.5" strokeLinecap="round" />
-    <circle cx="20" cy="20" r="5" fill="#B22222" stroke="white" strokeWidth="1" />
-    <path d="M18 18.5C18.5 18 19.5 17.8 20.2 18.3C20.9 18.8 21.1 19.8 20.7 20.5C20.3 21.2 19.3 21.5 18.5 21C17.7 20.5 17.5 19 18 18.5Z" fill="white" fillOpacity="0.6" />
-  </svg>
+  <img 
+    src="/lovable-uploads/ae0761f0-1ab4-404c-9ad7-97fee445e232.png" 
+    alt="CricBuddies Logo" 
+    className={className} 
+  />
 );
