@@ -1,0 +1,9 @@
+
+<!-- This is a placeholder. In a real scenario, we would add an actual PNG file. -->
+<!-- Since we can't directly add binary files here, we'll use an SVG pattern for demo purposes -->
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100">
+  <path d="M20,20 L25,15 M40,20 L45,15 M60,20 L65,15 M80,20 L85,15" stroke="#1A4D2E" stroke-width="1" opacity="0.1" />
+  <path d="M20,40 L25,35 M40,40 L45,35 M60,40 L65,35 M80,40 L85,35" stroke="#1A4D2E" stroke-width="1" opacity="0.1" />
+  <path d="M20,60 L25,55 M40,60 L45,55 M60,60 L65,55 M80,60 L85,55" stroke="#1A4D2E" stroke-width="1" opacity="0.1" />
+  <path d="M20,80 L25,75 M40,80 L45,75 M60,80 L65,75 M80,80 L85,75" stroke="#1A4D2E" stroke-width="1" opacity="0.1" />
+</svg>
